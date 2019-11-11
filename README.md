@@ -1,5 +1,5 @@
 # CoinEx Chain 
-chain_id: coinexdex
+chain_id: `coinexdex`
 
 # How to setup node for chain_id: coinexdex
 - please refer to [setup-guide](https://github.com/coinexchain/devops) but with following parameters:
